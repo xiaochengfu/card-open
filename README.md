@@ -22,10 +22,10 @@ url加密采用appKey和appSecret，目前只提供了go和php两种语言的sdk
 
 <img src="https://cdn.xiaochengfu.com/mumber/smallapp/mvQrCode.jpg" width=30% height=30%/>
 
-### 加密sdk文档
+### [加密sdk文档](poster/api-sdk.md)
 
 #### go-sdk
 
-[1.go-sdk](poster/api-sdk.md)
+[1.go-sdk](poster/go-sdk)
 
-[2.php-sdk](poster/api-sdk.md)
+[2.php-sdk](poster/php-sdk)
