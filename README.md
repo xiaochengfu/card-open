@@ -6,18 +6,18 @@
 
 > 效果展示：每日更新并推送
 
-![image](https://cdn.xiaochengfu.com/mumber/smallapp/poster-list.jpg)
+<img src="https://cdn.xiaochengfu.com/mumber/smallapp/poster-list.jpg" width=60% height=60%/>
 
 也可以微信扫码体验：
 
-![image](https://cdn.xiaochengfu.com/mumber/smallapp/small-wmmp.png)
+<img src="https://cdn.xiaochengfu.com/mumber/smallapp/small-wmmp.png" width=30% height=30%/>
 
 Api接口通过get请求即可获取：
 
-![image](https://cdn.xiaochengfu.com/mumber/smallapp/api-poster.png)
+<img src="https://cdn.xiaochengfu.com/mumber/smallapp/api-poster.png" width=80% height=50%/>
 
 > 加密方式:
 
 url加密采用appKey和appSecret，目前只提供了go和php两种语言的sdk，appKey和appSercet的获取方式，关注下面的公众号，点击右下角『我的』-『我的密钥』即可获取！
 
-![image](https://cdn.xiaochengfu.com/mumber/smallapp/mvQrCode.jpg)
+<img src="https://cdn.xiaochengfu.com/mumber/smallapp/mvQrCode.jpg" width=30% height=30%/>
